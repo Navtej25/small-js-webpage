@@ -1,0 +1,37 @@
+body{
+  background-color: white;
+}
+
+div{
+  background-color: #402E7A;
+  font-style: Helvetica;
+  font-weight: bold;
+  }
+
+#inp{
+  margin: 5px;
+  border: 2px solid black;
+  }
+
+.button{ 
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+.text{
+  color: #FFFFFF;
+}
+
+p{
+font-size: 20px;
+}
+
+.second{
+background-color: #4C3BCF;
+padding-top: 20px;
+}
+
+.third{
+background-color: #4B70F5;
+padding-top: 10px;
+}

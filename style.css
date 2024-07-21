@@ -6,6 +6,7 @@ div{
   background-color: #402E7A;
   font-style: Helvetica;
   font-weight: bold;
+  border: 2px solid black;
   }
 
 #inp{
